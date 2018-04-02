@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://unionresearch.ca/user/rrose/test2/"
+baseurl = "/"
 
 # Title of your site
 title = "Rebecca Rose Writes"
