@@ -8,33 +8,29 @@ date = "2016-04-20T00:00:00"
 weight = 5
 
 # List your academic interests.
-[interests]
+[Interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Journalism",
+    "Writing",
+    "Consulting",
+    "Speaking"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Journalism"
+  institution = "Ryerson University"
+  year = ""
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
+Born in Sydney, Cape Breton, Rebecca Rose is a unionized freelance writer, editor, consultant, and presenter, currently based in Toronto.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A Ryerson University Journalism graduate Rebecca has written and edited for: The Coast, Nova Scotia Advocate, Our Times, CAAmagazine.ca, DailyXtra.com, Rabble.ca, Halifax Media Co-op, Autostraddle, the Ryerson Review of Journalism, McClung’s Magazine, and the book OUT: Queer Looking, Queer Acting Revisited.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Rebecca also has extensive experience writing and editing online training tools, campaign and promotional materials, reports, media advisories and press releases, and grant applications. She has also run, and given advice regarding, various social media platforms for both non-profit and private clients.
+
+With over a decade of experience within the student and labour movements as well as the Queer and Trans and feminist communities, Rebecca has in depth knowledge of: federal, provincial and municipal politics; post-secondary education; various social movements; issues affecting Queer and Trans communities; misogyny and rape culture; and reproductive rights. She also isn’t scared to stick her neck out for an issue or a story that she believes in.
+
+Proud member of the Canadian Freelance Union (UNIFOR).
