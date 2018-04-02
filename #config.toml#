@@ -1,18 +1,22 @@
+
+
+
+
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://unionresearch.ca/user/rrose/test2/"
+baseurl = "/"
 
 # Title of your site
-title = "Rebecca Rose Writes"
+title = "Testing Site for Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "hugo-academic"		#
+theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -43,27 +47,27 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Your details.
-  name = "Rebecca Rose"
-  role = "Writes, Edits, Consults, Talks"
+  name = "Testing McTester"
+  role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "", url = "" } ]
+  organizations = [ { name = "Stanford University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "rrose.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "rebecca@rebeccarose.ca"
-  address = "Halifax, Nova Scotia"
-  office_hours = ""
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "888 888 88 88"
-  skype = ""
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
