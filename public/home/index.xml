@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Academic</title>
+      <title>Rebecca Rose</title>
       <link>https://unionresearch.ca/user/rrose/test2/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://unionresearch.ca/user/rrose/test2/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+      <description>A unionized freelance writer, editor, consultant, and presenter from Cape Breton and based in Toronto.
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
@@ -28,8 +28,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://unionresearch.ca/user/rrose/test2/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography Born in Sydney, Cape Breton, Rebecca Rose is a unionized freelance writer, editor, consultant, and presenter, currently based in Toronto.
+A Ryerson University Journalism graduate Rebecca has written and edited for: The Coast, Nova Scotia Advocate, Our Times, CAAmagazine.ca, DailyXtra.com, Rabble.ca, Halifax Media Co-op, Autostraddle, the Ryerson Review of Journalism, McClung’s Magazine, and the book OUT: Queer Looking, Queer Acting Revisited.
+Rebecca also has extensive experience writing and editing online training tools, campaign and promotional materials, reports, media advisories and press releases, and grant applications.</description>
     </item>
     
     <item>

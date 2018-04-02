@@ -5,6 +5,51 @@
     
     <url>
     
+      <loc>https://unionresearch.ca/user/rrose/test2/project/journalism/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://unionresearch.ca/user/rrose/test2/project/consulting/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://unionresearch.ca/user/rrose/test2/project/socialmedia/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://unionresearch.ca/user/rrose/test2/project/speaking/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://unionresearch.ca/user/rrose/test2/project/writing/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://unionresearch.ca/user/rrose/test2/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -124,6 +169,16 @@
     
     <url>
     
+      <loc>https://unionresearch.ca/user/rrose/test2/tags/consulting/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://unionresearch.ca/user/rrose/test2/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -144,8 +199,18 @@
     
     <url>
     
+      <loc>https://unionresearch.ca/user/rrose/test2/tags/journalism/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://unionresearch.ca/user/rrose/test2/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -174,8 +239,28 @@
     
     <url>
     
+      <loc>https://unionresearch.ca/user/rrose/test2/tags/speaking/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://unionresearch.ca/user/rrose/test2/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://unionresearch.ca/user/rrose/test2/tags/writing/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
